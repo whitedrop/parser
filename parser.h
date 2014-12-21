@@ -1,3 +1,5 @@
+#ifndef parser_h
+#define parser_h
 #include <string>
 #include <vector>
 
@@ -35,3 +37,5 @@ namespace Parser {
 
 
 }
+
+#endif
