@@ -16,6 +16,7 @@ namespace Parser {
 		Vector3			dimensions;
 		std::string 	id;
 		std::string 	mesh;
+		std::string		material;
 	};
 	struct World
 	{
